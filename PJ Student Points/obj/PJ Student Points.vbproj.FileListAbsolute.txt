@@ -1,0 +1,32 @@
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\bin\Debug\PJCVSStudentPoints.mdb
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\bin\Debug\PJ Student Points.exe.config
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\bin\Debug\PJ Student Points.exe
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\bin\Debug\PJ Student Points.pdb
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\bin\Debug\PJ Student Points.xml
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Debug\PJ_Student_Points.Form1.resources
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Debug\PJ_Student_Points.Resources.resources
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Debug\PJ Student Points.vbproj.GenerateResource.Cache
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Debug\PJ Student Points.exe
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Debug\PJ Student Points.xml
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Debug\PJ Student Points.pdb
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\bin\Release\PJCVSStudentPoints.mdb
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\bin\Release\PJ Student Points.exe.config
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\bin\Release\PJ Student Points.exe
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\bin\Release\PJ Student Points.pdb
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\bin\Release\PJ Student Points.xml
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Release\PJ_Student_Points.Form1.resources
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Release\PJ_Student_Points.Resources.resources
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Release\PJ Student Points.vbproj.GenerateResource.Cache
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Release\PJ Student Points.exe
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Release\PJ Student Points.xml
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Release\PJ Student Points.pdb
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\bin\Release\PJ Student Points.exe.manifest
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\bin\Release\PJ Student Points.application
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Release\PJ Student Points.exe.manifest
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Release\PJ Student Points.application
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\bin\Debug\PJ Student Points.exe.manifest
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\bin\Debug\PJ Student Points.application
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Debug\PJ Student Points.exe.manifest
+C:\Users\Kush\Documents\Visual Studio 2005\Projects\PJ Student Points\PJ Student Points\obj\Debug\PJ Student Points.application

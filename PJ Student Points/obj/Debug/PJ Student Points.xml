@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PJStudentPoints
+</name>
+</assembly>
+<members>
+<member name="T:PJ_Student_Points.PJCVSStudentPointsDataSet.MainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PJ_Student_Points.PJCVSStudentPointsDataSet.StudentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PJ_Student_Points.PJCVSStudentPointsDataSet.MainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PJ_Student_Points.PJCVSStudentPointsDataSet.StudentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PJ_Student_Points.PJCVSStudentPointsDataSet.MainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PJ_Student_Points.PJCVSStudentPointsDataSet.StudentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PJ_Student_Points.PJCVSStudentPointsDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PJ_Student_Points.PJCVSStudentPointsDataSetTableAdapters.MainTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PJ_Student_Points.PJCVSStudentPointsDataSetTableAdapters.StudentsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>
