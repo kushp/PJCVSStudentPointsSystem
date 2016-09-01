@@ -2,3 +2,4 @@
 This is a tool that lets you easily manage and track the amount of 'points' that students get for partaking in aspects of school such as academics, leadership, clubs, sports, etc. Basically, if a student is on a sports team they would receive a certain amount of points for the season, these could vary based on their commitment to the team. Then at the end of the year, the tool can generate lists of students who have qualified for awards based on the number of points they have accumulated. I.e 10 points is a junior letter.
 I created this because there was simply no better way to have the features that were needed and also have the ease of use. For more information on usage please [click here](https://github.com/kushp/PJCVSStudentPointsSystem/blob/master/PJ%20Student%20Points/PJCVS%20Student%20Points%20Manual.pdf) to read the user manual. 
 
+![alt](http://https://github.com/kushp/PJCVSStudentPointsSystem/blob/master/PJ%20Student%20Points/OverviewPJStudentPoints.png)
